@@ -1,6 +1,6 @@
-<h1>### Hi there </h1>👋
+<h1 align="left">Hi there </h1>👋
 
-<h2>My name is Antoaneta </h2>🙂
+<h2 align="left">My name is Antoaneta </h2>🙂
 
 <hr>
 
