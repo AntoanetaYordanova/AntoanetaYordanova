@@ -1,8 +1,6 @@
-### Hi there 👋
+<h2>Hi there 👋 <br> My name is Antoaneta 🙂</h2>
 
-My name is Antoaneta 🙂
 
-<hr>
 
 - 🔭 I’m currently working on ... Improving my web development skills
 - 🌱 I’m currently learning ... Node.js and ExpressJS
@@ -16,7 +14,7 @@ My name is Antoaneta 🙂
  
  <hr>
  
- <br>Technologies</br>
+ <h3><b>Technologies:</b></h3>
  
  <!-- <img align="left" alt="htmlIcon" width="35px" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> -->
  <img  align="left" alt="htmlIcon" width="35px" src="./images/html.jpg"/>
