@@ -1,6 +1,6 @@
-### Hi there 👋
+<h1>### Hi there </h1>👋
 
-My name is Antoaneta 🙂
+<h2>My name is Antoaneta </h2>🙂
 
 <hr>
 
@@ -16,7 +16,7 @@ My name is Antoaneta 🙂
  
  <hr>
  
- <h3><b>Technologies</b></h3>
+ <h3><b>Technologies:</b></h3>
  
  <!-- <img align="left" alt="htmlIcon" width="35px" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> -->
  <img  align="left" alt="htmlIcon" width="35px" src="./images/html.jpg"/>
