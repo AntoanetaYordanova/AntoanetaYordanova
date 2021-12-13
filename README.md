@@ -17,7 +17,7 @@
  <h3><b>Technologies:</b></h3>
  
  <!-- <img align="left" alt="htmlIcon" width="35px" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> -->
- <img  align="left" alt="htmlIcon" width="35px" src="./images/html.jpg"/>
+ <img  align="left" alt="htmlIcon" width="35px" src="./images/html.png"/>
  <!-- <img  align="left" alt="cssIcon" width="35px" src="https://img.icons8.com/color/48/000000/css3.png"/> -->
   <img  align="left" alt="cssIcon" width="35px" src="./images/css.png"/>
  <img  align="left" alt="javascriptIcon" width="35px" src="./images/js.png"/>
