@@ -1,4 +1,4 @@
-<h1>Hi there 👋 <br> My name is Antoaneta 🙂</h1>
+<h2>Hi there 👋 <br> My name is Antoaneta 🙂</h2>
 
 
 <hr>
