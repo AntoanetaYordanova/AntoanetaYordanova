@@ -1,7 +1,6 @@
 <h2>Hi there 👋 <br> My name is Antoaneta 🙂</h2>
 
 
-<hr>
 
 - 🔭 I’m currently working on ... Improving my web development skills
 - 🌱 I’m currently learning ... Node.js and ExpressJS
