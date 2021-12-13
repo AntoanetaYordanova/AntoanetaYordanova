@@ -16,7 +16,7 @@ My name is Antoaneta 🙂
  
  <hr>
  
- <br>Technologies</br>
+ <b font-size="17px">Technologies</b>
  
  <!-- <img align="left" alt="htmlIcon" width="35px" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> -->
  <img  align="left" alt="htmlIcon" width="35px" src="./images/html.jpg"/>
