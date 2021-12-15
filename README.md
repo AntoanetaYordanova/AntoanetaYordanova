@@ -19,5 +19,5 @@
  <img align="left" alt="htmlIcon" width="35px" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
  <img align="left" alt="cssIcon" width="35px" src="https://img.icons8.com/color/48/000000/css3.png"/>
  <img align="left" a align="left"lt="javascriptIcon" width="35px" src="https://img.icons8.com/color/50/000000/javascript--v1.png"/>
- <img align="left" a align="left"lt="nodejsIcon" width="80px" src="https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A"/>
+ <img align="left" a align="left"lt="nodejsIcon" width="90px" src="https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A"/>
 
