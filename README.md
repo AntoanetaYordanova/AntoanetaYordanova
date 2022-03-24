@@ -6,7 +6,6 @@
 - 🌱 I’m currently learning ... Angular
 - 👯 I’m looking to collaborate on ... Web application projects
 - 📫 How to reach me: ... You can find me on [![Linkedin Badge](https://img.shields.io/badge/-Antoaneta-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antoanetapetrovayordanova/)
-- ⚡ Fun fact: ... I'm a Minecraft freak :trollface:
 
 <hr>
 
