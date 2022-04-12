@@ -20,3 +20,4 @@
  <img align="left" a align="left"lt="javascriptIcon" width="35px" src="https://img.icons8.com/color/50/000000/javascript--v1.png"/>
  <img align="left" a align="left"lt="angularIcon" width="35px" src="https://img.icons8.com/color/344/angularjs.png"/>
  <img align="left" a align="left"lt="angularIcon" width="35px" src="https://img.icons8.com/fluency/344/node-js.png"/>
+ <img align="left" a align="left"lt="angularIcon" width="35px" src="https://img.icons8.com/color/344/mongodb.png"/>
