@@ -3,8 +3,8 @@
 
 
 - 🔭 I’m currently working on ... Improving my web development skills
-- 🌱 I’m currently learning ... React
-- 👯 I’m looking to collaborate on ... Web application projects
+- 🌱 I’m currently learning ... React, SASS 
+- 👯 I’m looking to collaborate on ... Web app projects
 - 📫 How to reach me: ... You can find me on [![Linkedin Badge](https://img.shields.io/badge/-Antoaneta-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antoanetapetrovayordanova/)
 
 <hr>
