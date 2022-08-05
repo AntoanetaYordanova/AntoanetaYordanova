@@ -13,6 +13,10 @@
  
  <hr>
  
+ You can check out my portfolio on https://antoanetayordanova.github.io/Portfolio/
+ 
+ <hr>
+ 
  <h3><b>Technologies:</b></h3>
  
  <img align="left" alt="htmlIcon" width="35px" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
