@@ -23,6 +23,7 @@
  <img align="left" a align="left"lt="nodejsIcon" width="35px" src="https://img.icons8.com/fluency/344/node-js.png"/>
  <img align="left" a align="left"lt="mongodbIcon" width="35px" src="https://img.icons8.com/color/344/mongodb.png"/>
 
- <hr>
+<br>
+<hr>
 
  You can check out my portfolio on https://antoanetayordanova.github.io/Portfolio/
