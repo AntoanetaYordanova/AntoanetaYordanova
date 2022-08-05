@@ -11,11 +11,7 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AntoanetaYordanova&theme=onedark"/></p>
  
- <hr>
- 
- You can check out my portfolio on https://antoanetayordanova.github.io/Portfolio/
- 
- <hr>
+ <hr> 
  
  <h3><b>Technologies:</b></h3>
  
@@ -26,3 +22,7 @@
  <img align="left" a align="left"lt="reactIcon" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png"/>
  <img align="left" a align="left"lt="nodejsIcon" width="35px" src="https://img.icons8.com/fluency/344/node-js.png"/>
  <img align="left" a align="left"lt="mongodbIcon" width="35px" src="https://img.icons8.com/color/344/mongodb.png"/>
+
+ <hr>
+
+ You can check out my portfolio on https://antoanetayordanova.github.io/Portfolio/
