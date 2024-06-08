@@ -2,7 +2,6 @@
 
 
 
-- 🔭 I’m currently working on ... Improving my development skills
 - 📫 How to reach me: ... You can find me on [![Linkedin Badge](https://img.shields.io/badge/-Antoaneta-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antoanetapetrovayordanova/)
 
 
